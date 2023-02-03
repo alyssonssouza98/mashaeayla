@@ -54,7 +54,7 @@ body {
 
 .link {
     position: absolute;
-    background-color: transparent;
+    background-color: #DC56AD;
     color: var(--accentColor);
     border: solid var(--accentColor) 2px;
     border-radius: 10px;
